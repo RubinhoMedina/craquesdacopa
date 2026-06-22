@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420" role="img" aria-label="Garantia incondicional de 7 dias">
+  <defs>
+    <radialGradient id="dark" cx="50%" cy="42%" r="62%">
+      <stop offset="0%" stop-color="#2c2414"/>
+      <stop offset="70%" stop-color="#12100a"/>
+      <stop offset="100%" stop-color="#0a0907"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fff1ac"/>
+      <stop offset="35%" stop-color="#ffd33a"/>
+      <stop offset="100%" stop-color="#c58a00"/>
+    </linearGradient>
+  </defs>
+  <rect width="420" height="420" fill="transparent"/>
+  <circle cx="210" cy="210" r="165" fill="#f2c94c"/>
+  <circle cx="210" cy="210" r="148" fill="url(#dark)" stroke="url(#gold)" stroke-width="10"/>
+  <circle cx="210" cy="210" r="120" fill="none" stroke="#f7d86a" stroke-opacity="0.45" stroke-width="4"/>
+  <text x="210" y="118" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="42" fill="#ffffff" transform="rotate(-18 210 118)">GARANTIA</text>
+  <text x="210" y="205" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="104" fill="url(#gold)">7</text>
+  <text x="210" y="265" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="54" fill="url(#gold)">DIAS</text>
+  <text x="210" y="325" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="34" fill="#ffffff" transform="rotate(18 210 325)">INCONDICIONAL</text>
+</svg>
