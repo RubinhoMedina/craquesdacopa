@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Compra segura">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#7ef01b"/>
+      <stop offset="100%" stop-color="#2f8500"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" fill="transparent"/>
+  <path d="M128 22 206 52v66c0 58-33 95-78 116-45-21-78-58-78-116V52z" fill="url(#g)" stroke="#0a1208" stroke-width="10"/>
+  <path d="m90 133 27 27 50-57" fill="none" stroke="#ffffff" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
