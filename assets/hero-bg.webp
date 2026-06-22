@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="Estádio iluminado">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#03070a"/>
+      <stop offset="60%" stop-color="#07131d"/>
+      <stop offset="100%" stop-color="#051106"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="24%" r="58%">
+      <stop offset="0%" stop-color="#18384f" stop-opacity="0.55"/>
+      <stop offset="45%" stop-color="#18384f" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#18384f" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="grass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#214313"/>
+      <stop offset="100%" stop-color="#0a1808"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#sky)"/>
+  <rect width="1600" height="900" fill="url(#glow)"/>
+  <ellipse cx="800" cy="730" rx="650" ry="120" fill="#06120a" opacity="0.65"/>
+  <g opacity="0.92">
+    <g fill="#f6fbff">
+      <circle cx="120" cy="490" r="10"/><circle cx="145" cy="470" r="10"/><circle cx="170" cy="455" r="10"/><circle cx="195" cy="440" r="10"/>
+      <circle cx="1490" cy="490" r="10"/><circle cx="1465" cy="470" r="10"/><circle cx="1440" cy="455" r="10"/><circle cx="1415" cy="440" r="10"/>
+      <circle cx="160" cy="520" r="7"/><circle cx="186" cy="500" r="7"/><circle cx="212" cy="482" r="7"/>
+      <circle cx="1440" cy="520" r="7"/><circle cx="1414" cy="500" r="7"/><circle cx="1388" cy="482" r="7"/>
+    </g>
+    <path d="M90 530c160-120 295-145 600-145s440 25 620 145" fill="none" stroke="#dfeeff" stroke-opacity="0.35" stroke-width="3"/>
+    <path d="M130 565c160-90 285-110 670-110s535 20 670 110" fill="none" stroke="#dfeeff" stroke-opacity="0.22" stroke-width="2"/>
+    <path d="M170 600c165-66 300-80 640-80s475 14 630 80" fill="none" stroke="#dfeeff" stroke-opacity="0.15" stroke-width="2"/>
+  </g>
+  <g opacity="0.85">
+    <path d="M150 470l-80 95h130z" fill="#0c1a28"/>
+    <path d="M1450 470l80 95h-130z" fill="#0c1a28"/>
+    <path d="M250 410l-110 155h135z" fill="#0e1822" opacity="0.8"/>
+    <path d="M1350 410l110 155h-135z" fill="#0e1822" opacity="0.8"/>
+  </g>
+  <g>
+    <path d="M50 645c190-65 370-85 750-85s560 20 750 85v255H50z" fill="url(#grass)"/>
+    <path d="M0 770c250-50 490-66 800-66s550 16 800 66" fill="none" stroke="#a6e46d" stroke-opacity="0.26" stroke-width="2"/>
+    <path d="M0 785c250-42 490-56 800-56s550 14 800 56" fill="none" stroke="#a6e46d" stroke-opacity="0.18" stroke-width="2"/>
+    <path d="M0 805c250-34 490-46 800-46s550 12 800 46" fill="none" stroke="#a6e46d" stroke-opacity="0.12" stroke-width="2"/>
+  </g>
+  <circle cx="800" cy="760" r="70" fill="none" stroke="#d7e4d0" stroke-opacity="0.45" stroke-width="3"/>
+</svg>
