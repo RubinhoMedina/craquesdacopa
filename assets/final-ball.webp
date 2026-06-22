@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 540" role="img" aria-label="Bola de futebol">
+  <defs>
+    <radialGradient id="shine" cx="35%" cy="28%" r="70%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="70%" stop-color="#dadada"/>
+      <stop offset="100%" stop-color="#8b8b8b"/>
+    </radialGradient>
+  </defs>
+  <rect width="540" height="540" rx="270" fill="transparent"/>
+  <circle cx="270" cy="270" r="210" fill="url(#shine)" stroke="#101010" stroke-width="12"/>
+  <path d="M270 160 330 204 308 280H232l-22-76z" fill="#111"/>
+  <path d="M270 160 330 204 308 280H232l-22-76z" fill="none" stroke="#0a0a0a" stroke-width="10"/>
+  <path d="M186 224 232 280l-18 72-78-10-32-68z" fill="#111"/>
+  <path d="M354 224 408 274l-34 70-78 10-18-72z" fill="#111"/>
+  <path d="M232 280h76l22 74-60 50-60-50z" fill="#111"/>
+  <path d="M132 264 186 224" stroke="#111" stroke-width="10" stroke-linecap="round"/>
+  <path d="M408 274 470 264" stroke="#111" stroke-width="10" stroke-linecap="round"/>
+  <path d="M248 404 270 350l22 54" stroke="#111" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="170" cy="390" r="16" fill="#111"/>
+  <circle cx="370" cy="390" r="16" fill="#111"/>
+</svg>
