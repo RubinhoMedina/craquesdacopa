@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 700" role="img" aria-label="Pôster dividido em folhas A4">
+  <rect width="680" height="700" fill="transparent"/>
+  <g transform="translate(82 46) rotate(-8 240 230)">
+    <rect x="0" y="0" width="240" height="430" rx="16" fill="#ffffff" stroke="#222" stroke-width="5"/>
+    <circle cx="120" cy="160" r="50" fill="none" stroke="#111" stroke-width="4"/>
+    <path d="M120 112 146 128l-9 24h-34l-9-24z" fill="none" stroke="#111" stroke-width="4"/>
+    <path d="M88 196c15-34 49-34 64 0" fill="none" stroke="#111" stroke-width="4"/>
+    <path d="M120 202v118M92 236h56M98 330c14 16 46 16 60 0" fill="none" stroke="#111" stroke-width="4"/>
+    <rect x="20" y="364" width="200" height="40" rx="10" fill="#fff" stroke="#111" stroke-width="4"/>
+    <text x="120" y="392" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="26" fill="#111">A4</text>
+  </g>
+</svg>
