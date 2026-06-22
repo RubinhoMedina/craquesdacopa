@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 760" role="img" aria-label="Criança colorindo um pôster de futebol">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f7f5ee"/>
+      <stop offset="100%" stop-color="#ebe6d4"/>
+    </linearGradient>
+  </defs>
+  <rect width="760" height="760" rx="38" fill="url(#bg)"/>
+  <rect x="36" y="550" width="688" height="144" rx="18" fill="#c98f3a"/>
+  <rect x="88" y="280" width="470" height="230" rx="12" fill="#fff" stroke="#1a1a1a" stroke-width="6"/>
+  <rect x="528" y="288" width="132" height="220" rx="12" fill="#fff" stroke="#1a1a1a" stroke-width="6"/>
+  <circle cx="285" cy="395" r="48" fill="none" stroke="#1a1a1a" stroke-width="4"/>
+  <path d="M285 351 309 365l-8 22h-32l-8-22z" fill="none" stroke="#1a1a1a" stroke-width="4"/>
+  <path d="M253 427c16-28 48-28 64 0" fill="none" stroke="#1a1a1a" stroke-width="4"/>
+  <path d="M285 433v54M261 452h48" fill="none" stroke="#1a1a1a" stroke-width="4"/>
+  <circle cx="478" cy="392" r="42" fill="#d5dde9" opacity="0.9"/>
+  <path d="M246 548 340 424" stroke="#3b7f29" stroke-width="10" stroke-linecap="round"/>
+  <path d="M396 542 500 428" stroke="#3b7f29" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="192" cy="312" r="78" fill="#7a4e28"/>
+  <circle cx="192" cy="286" r="46" fill="#f2bf8d"/>
+  <path d="M138 348c34-16 76-16 108 0 16 8 24 24 24 44v46H114v-46c0-20 10-36 24-44z" fill="#1f6331"/>
+  <path d="M158 400c-36 30-55 68-58 118" fill="none" stroke="#f2bf8d" stroke-width="18" stroke-linecap="round"/>
+  <path d="M226 400c36 30 55 68 58 118" fill="none" stroke="#f2bf8d" stroke-width="18" stroke-linecap="round"/>
+  <path d="M160 428c18 20 38 32 58 38" fill="none" stroke="#f2bf8d" stroke-width="18" stroke-linecap="round"/>
+  <path d="M188 466l92 52" stroke="#f7c91e" stroke-width="14" stroke-linecap="round"/>
+  <rect x="618" y="322" width="36" height="160" rx="10" fill="#2b95b5"/>
+  <circle cx="636" cy="332" r="14" fill="#ff5f4b"/>
+  <circle cx="636" cy="364" r="14" fill="#f2d31f"/>
+  <circle cx="636" cy="396" r="14" fill="#7bc02d"/>
+  <circle cx="636" cy="428" r="14" fill="#a25cff"/>
+  <circle cx="636" cy="460" r="14" fill="#ff8e2b"/>
+</svg>
