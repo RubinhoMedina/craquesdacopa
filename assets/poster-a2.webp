@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 700" role="img" aria-label="Pôster principal do kit">
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f1f1f1"/>
+    </linearGradient>
+  </defs>
+  <rect width="860" height="700" fill="transparent"/>
+  <g transform="translate(120 48)">
+    <rect x="0" y="0" width="260" height="430" rx="16" fill="url(#paper)" stroke="#222" stroke-width="5"/>
+    <circle cx="130" cy="158" r="52" fill="none" stroke="#111" stroke-width="4"/>
+    <path d="M130 110 158 128l-10 28h-36l-10-28z" fill="none" stroke="#111" stroke-width="4"/>
+    <path d="M95 195c18-38 52-38 70 0" fill="none" stroke="#111" stroke-width="4"/>
+    <path d="M130 200v122M100 235h60M106 348c15 18 50 18 65 0" fill="none" stroke="#111" stroke-width="4"/>
+    <rect x="24" y="365" width="212" height="42" rx="10" fill="#fff" stroke="#111" stroke-width="4"/>
+    <text x="130" y="395" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="26" fill="#111">NEYMAR JR</text>
+  </g>
+  <g transform="translate(304 26)">
+    <rect x="0" y="0" width="300" height="470" rx="16" fill="url(#paper)" stroke="#222" stroke-width="5"/>
+    <rect x="16" y="16" width="128" height="82" rx="8" fill="#1a7d24"/>
+    <text x="30" y="52" font-family="Arial Black, Impact, sans-serif" font-size="28" fill="#ffffff">PÔSTER</text>
+    <text x="30" y="82" font-family="Arial Black, Impact, sans-serif" font-size="28" fill="#ffffff">GIGANTE</text>
+    <circle cx="150" cy="170" r="58" fill="none" stroke="#111" stroke-width="4"/>
+    <path d="M150 112 179 131l-10 28h-38l-10-28z" fill="none" stroke="#111" stroke-width="4"/>
+    <path d="M114 209c20-40 62-40 72 0" fill="none" stroke="#111" stroke-width="4"/>
+    <path d="M150 214v126M118 248h64M124 347c16 18 54 18 70 0" fill="none" stroke="#111" stroke-width="4"/>
+    <rect x="28" y="395" width="244" height="50" rx="10" fill="#fff" stroke="#111" stroke-width="4"/>
+    <text x="150" y="429" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="34" fill="#111">MESSI</text>
+  </g>
+  <g transform="translate(640 54)">
+    <rect x="0" y="0" width="180" height="406" rx="16" fill="url(#paper)" stroke="#222" stroke-width="5"/>
+    <circle cx="90" cy="152" r="42" fill="none" stroke="#111" stroke-width="4"/>
+    <path d="M90 110 112 124l-8 22H76l-8-22z" fill="none" stroke="#111" stroke-width="4"/>
+    <path d="M61 188c14-32 43-32 58 0" fill="none" stroke="#111" stroke-width="4"/>
+    <path d="M90 194v108M64 223h52M70 305c12 16 38 16 50 0" fill="none" stroke="#111" stroke-width="4"/>
+    <rect x="18" y="350" width="144" height="38" rx="10" fill="#fff" stroke="#111" stroke-width="4"/>
+    <text x="90" y="377" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="24" fill="#111">RONALDO</text>
+  </g>
+</svg>
