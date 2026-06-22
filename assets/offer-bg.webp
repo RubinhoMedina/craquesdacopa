@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="Fundo leve para a oferta">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fffef9"/>
+      <stop offset="100%" stop-color="#eef2df"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="45%" r="58%">
+      <stop offset="0%" stop-color="#7cf51c" stop-opacity="0.18"/>
+      <stop offset="55%" stop-color="#7cf51c" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#7cf51c" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect width="1600" height="900" fill="url(#glow)"/>
+  <circle cx="1180" cy="220" r="190" fill="#fff4bd" opacity="0.22"/>
+  <circle cx="290" cy="640" r="230" fill="#dff1b6" opacity="0.22"/>
+  <path d="M0 660c180-40 320-52 520-52s340 12 520 52" fill="none" stroke="#d8e4c7" stroke-width="10" opacity="0.6"/>
+  <path d="M0 700c180-34 320-45 520-45s340 11 520 45" fill="none" stroke="#b9d3a0" stroke-width="8" opacity="0.4"/>
+</svg>
