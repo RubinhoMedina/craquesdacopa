@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 280" role="img" aria-label="4 folhas A4">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="42%" r="60%">
+      <stop offset="0%" stop-color="#1f3f15"/>
+      <stop offset="75%" stop-color="#0f150f"/>
+      <stop offset="100%" stop-color="#090a08"/>
+    </radialGradient>
+    <linearGradient id="green" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#89f22d"/>
+      <stop offset="100%" stop-color="#2c8a00"/>
+    </linearGradient>
+  </defs>
+  <circle cx="140" cy="140" r="130" fill="url(#bg)"/>
+  <circle cx="140" cy="140" r="124" fill="none" stroke="url(#green)" stroke-width="10"/>
+  <text x="140" y="130" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="88" fill="url(#green)">4</text>
+  <text x="140" y="178" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="34" fill="#ffffff">FOLHAS</text>
+  <text x="140" y="215" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="28" fill="#ffffff">A4</text>
+</svg>
