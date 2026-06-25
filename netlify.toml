@@ -1,13 +1,3 @@
 [build]
   publish = "."
   command = ""
-
-[[headers]]
-  for = "/assets/*.webp"
-  [headers.values]
-    Content-Type = "image/svg+xml; charset=utf-8"
-
-[[headers]]
-  for = "/assets/zip/*.webp"
-  [headers.values]
-    Content-Type = "image/svg+xml; charset=utf-8"
